@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/golden_swan.gif" alt="TypeScript Conventions Skills" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_cube.gif" alt="TypeScript Conventions Skills" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">TypeScript Conventions Skills</h1>
