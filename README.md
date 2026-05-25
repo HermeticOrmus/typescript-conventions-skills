@@ -1,6 +1,23 @@
-# TypeScript Conventions Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="TypeScript Conventions Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for TypeScript conventions. `strict: true` always, never `any`, discriminated unions over optional fields, Result types over throw, `satisfies` over `as`. Drop into any TS project.
+<h1 align="center">TypeScript Conventions Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for TypeScript conventions — strict: true always, never any, discriminated unions over optional fields, Result types over throw, satisfies over as. Drop into any TS project.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/typescript-conventions-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/typescript-conventions-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/typescript-conventions-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/typescript-conventions-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/typescript-conventions-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/typescript-conventions-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for TypeScript conventions. `strict: true` always, never `any`, discriminated unions over optional fields, Result types over throw, `satisfies` over `as`. Drop into any TS project.**
 
 ## What it covers
 
